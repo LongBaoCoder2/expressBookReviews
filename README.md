@@ -1,1 +1,1 @@
-# coding-project-template
+# Coursera BookShop Project
